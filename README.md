@@ -1,7 +1,7 @@
 
 
-<h1 align="center">Hi, I'm Rikesh Raj</h1>
-<h3 font-size="20" align="center">Currently a fresher.</h3>
+<h3 align="center">Hi, I'm Rikesh Raj</h3>
+<h6 font-size="20" align="center">Currently working as an Azure AI Engineer at LTIMindtree with 2+ years of experience designing scalable Generative AI and End-to-End Azure ML solutions. Expert in Azure OpenAI, RAG, and LLM fine-tuning, utilizing Python to build secure, production-ready pipelines. Experienced in implementing robust infrastructure using Role Based Access Control and Secure Private Endpoints to ensure enterprise-grade compliance.</h6>
 
 
 
@@ -23,9 +23,9 @@
 </div>
 -->
 
-<h3 align="center"><b>Languages</b></h3>
+<h3 align="center">Languages</h3>
 <p align="center">
-  <a href="https://cplusplus.com/" target="_blank"> 
+  <a href="https://python.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++"/> 
   </a>
   <a href="https://www.java.com" target="_blank"> 
