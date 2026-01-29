@@ -56,7 +56,6 @@
 <h3 align="center">Certifications</h3>
 <div style="margin-top:1px" align="justify">
   <ul>
-	  <h5>GenAI enabled Chatbot with file search</h5>
 	  <h6>
 		  <li>Azure (AZ-900: Azure Fundamentals, AI-900: Azure AI Fundamentals, AI-102: Azure AI Engineer Associate, DP-100: Azure Data Scientist Associate)</li>
 		  <li>Google Cloud Platform (Generative AI Leader)</li>
