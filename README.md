@@ -1,7 +1,7 @@
 
 
 <h3 align="center">Hi, I'm Rikesh Raj</h3>
-<h6 font-size="20" align="justify">Currently working as an Azure AI Engineer at LTIMindtree with 2+ years of experience designing scalable Generative AI and End-to-End Azure ML solutions. Expert in Azure OpenAI, RAG, and LLM fine-tuning, utilizing Python to build secure, production-ready pipelines. Experienced in implementing robust infrastructure using Role Based Access Control and Secure Private Endpoints to ensure enterprise-grade compliance.</h6>
+<h6 font-size="20" align="justify">Currently working as an AI Engineer (Azure Cloud) at LTIMindtree with 2+ years of experience designing scalable Generative AI and End-to-End Azure ML solutions. Expert in Azure OpenAI, RAG, and LLM fine-tuning, utilizing Python to build secure, production-ready pipelines. Experienced in implementing robust infrastructure using Role Based Access Control and Secure Private Endpoints to ensure enterprise-grade compliance.</h6>
 
 <h3 align="center">Experience</h3>
 <div style="margin-top:1px" align="justify">
