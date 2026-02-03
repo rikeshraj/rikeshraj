@@ -6,7 +6,7 @@
 <h3 align="center">Experience</h3>
 <div style="margin-top:1px" align="justify">
   <ul>
-	  <h4>LTIMindtree (Cloud Engineer) --- Oct 23 - Present</h4>
+	  <h4>LTIMindtree (Cloud AI Engineer) --- Oct 23 - Present</h4>
 	  <h6>
 		  <li>Designed and deployed industry-grade Generative AI solution architectures, ensuring accurate, reliable, and production-ready implementations to meet end-user requirements.</li>
 		  <li>Managed and optimized Azure AI services, including OpenAI, AI Search, AI Vision, Speech, Document Intelligence, and Language. Integrated AI services with LangChain and Azure ML to streamline job execution, endpoint deployment, custom model training, and outcome validation.</li>
