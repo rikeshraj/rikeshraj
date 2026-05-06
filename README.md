@@ -78,8 +78,8 @@
 ---
 -->
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: rikesh.raj.247@gmail.com  
+- [Linkedin](https://www.linkedin.com/in/rikesh-raj-502a99241/) 
+- [Email](rikesh.raj.247@gmail.com)
 
 ---
 
