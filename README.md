@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rikesh Raj</h1>
 <h3 align="center">Cloud Engineer | Azure Machine Learning | Generative AI | RAG Systems</h3>
-
-<!--
-<p align="center">
-  <a href="https://github.com/rikeshraj">
-    <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
--->
+Building production Generative AI systems, RAG pipelines, and agentic workflows on Microsoft Azure.
+Recognized internally as SME and Technical Lead for Azure AI & ML services.
 
 ---
 
@@ -20,31 +14,47 @@
 
 ---
 
-## 🧰 Tech Stack
-
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### ⚙️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge)
-
-### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![Azure SQL](https://img.shields.io/badge/Azure_SQL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Azure Cosmos DB](https://img.shields.io/badge/Azure_Cosmos_DB-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-
-### 🤖 AI / ML
-![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?style=for-the-badge)
-![Azure Machine Learning](https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-
-### 🖥️ Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+## What I Work On
+- **Generative AI & RAG** — LLM-powered document Q&A, hybrid retrieval pipelines, prompt engineering
+- **Agentic AI** — Azure AI Agent Service, function calling, file search, Private Endpoint network isolation
+- **Azure ML** — End-to-end ML pipelines, Managed Online Endpoints, drift detection, model monitoring
+- **Azure AI Services** — Document Intelligence, Speech, Vision, Language, Azure AI Search
 
 ---
+
+## 🧰 Tech Stack
+
+**AI & LLMs**  
+![Azure OpenAI](https://img.shields.io/badge/Azure_OpenAI-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure AI Search](https://img.shields.io/badge/Azure_AI_Search-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-4B0082?style=flat&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-6A0DAD?style=flat&logoColor=white)
+
+**Cloud & MLOps**  
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure_Machine_Learning-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<!--[CI/CD](https://img.shields.io/badge/CI/CD-239120?style=flat&logo=github-actions&logoColor=white)-->
+
+**Programming**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+
+---
+
+
+## Certifications
+
+| Provider | Certifications |
+|---|---|
+| **Microsoft Azure** | AZ-900 · AI-900 · AI-102 (AI Engineer Associate) · DP-100 (Data Scientist Associate) |
+| **Oracle Cloud** | OCI AI Foundations · OCI Generative AI Professional · Oracle AI Vector Search Professional · OCI Data Science Professional |
+| **Google Cloud** | Generative AI Leader |
+
+---
+
 <!--
 ## 📊 GitHub Stats
 
@@ -57,9 +67,9 @@
 -->
 ## 📌 Featured Projects
 
-### 🔹 Azure OpenAI RAG System
-- End-to-end RAG pipeline using Azure OpenAI + AI Search  
-- Semantic retrieval + embeddings  
+### 🔹 Speech enabled Azure OpenAI RAG System 
+- End-to-end RAG pipeline using Azure OpenAI + AI Search + Document Intelligence + Speech Service
+- Semantic retrieval + embeddings (Vector Search)
 - Production-ready API design  
 
 ### 🔹 AI Agents System
