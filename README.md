@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rikesh Raj</h1> 
 <h3 align="center">Cloud Engineer | Azure Machine Learning | Generative AI | RAG Systems</h3>
-Building production Generative AI systems, RAG pipelines, and agentic workflows on Microsoft Azure.
+Building production Generative AI systems, RAG pipelines, and agentic workflows on Microsoft Azure. 
 Recognized internally as SME and Technical Lead for Azure AI & ML services.
 
 --- 
